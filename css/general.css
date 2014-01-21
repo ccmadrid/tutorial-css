@@ -63,7 +63,7 @@ li {
 }
 
 ol li:first-child {
-    background-color: #000;
+    background-color: #CCC;
 }
 
 ol li:last-child {
